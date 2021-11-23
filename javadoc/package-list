@@ -1,0 +1,11 @@
+Controlador
+Controlador.Reportes
+Controlador.ReportesPaciente
+DAO
+DAO.Reportes
+DAO.ReportesPaciente
+Vista
+Vista.Reportes
+Vista.ReportesPaciente
+app
+modelo
